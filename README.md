@@ -1,5 +1,4 @@
-# Make Haste
-## Fast Track To Functional Thinking
+## Make Haste: Fast Track To Functional Thinking
 
 Slides: http://haste.codemiller.com
 
